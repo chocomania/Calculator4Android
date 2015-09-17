@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyCalculator</string>
+    <string name="dummy_button">Voice Recognition</string>
+    <string name="dummy_content"></string>
+    <string name="errMsg_overflow">Overflow</string>
+    <string name="errMsg_underflow">Underflow</string>
+    <string name="errMsg_zeroDivide">Zero Divide</string>
+    <string name="errMsg_invalidInput">Invalid Input</string>
+    <string name="errMsg_invalidPow">Arithmetic Error</string>
+    <string name="errMsg_invalidFormula">Invalid Formula</string>    
+    <string name="errMsg_invalidVoiceRecogn">Invalid Voice Recognition</string>
+</resources>
